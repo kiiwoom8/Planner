@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.22)  24 NOV 2022 23:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.22)  25 NOV 2022 10:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -356,21 +356,48 @@ File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
 \igrbox=\box62
 \igr@length=\dimen195
 \c@igrtarget=\count293
-) (C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarymindmap.code.tex
+) (C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip50
+\enit@outerparindent=\dimen196
+\enit@toks=\toks29
+\enit@inbox=\box63
+\enit@count@id=\count294
+\enitdp@description=\count295
+) (C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks30
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\pifont.sty
+Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+ (C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+ (C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+)) (C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarymindmap.code.tex
 File: tikzlibrarymindmap.code.tex 2021/05/15 v3.1.9a (3.1.9a)
  (C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytrees.code.tex
 File: tikzlibrarytrees.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ) (C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.code.tex (C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
-\pgfdecoratedcompleteddistance=\dimen196
-\pgfdecoratedremainingdistance=\dimen197
-\pgfdecoratedinputsegmentcompleteddistance=\dimen198
-\pgfdecoratedinputsegmentremainingdistance=\dimen199
-\pgf@decorate@distancetomove=\dimen256
-\pgf@decorate@repeatstate=\count294
-\pgfdecorationsegmentamplitude=\dimen257
-\pgfdecorationsegmentlength=\dimen258
+\pgfdecoratedcompleteddistance=\dimen197
+\pgfdecoratedremainingdistance=\dimen198
+\pgfdecoratedinputsegmentcompleteddistance=\dimen199
+\pgfdecoratedinputsegmentremainingdistance=\dimen256
+\pgf@decorate@distancetomove=\dimen257
+\pgf@decorate@repeatstate=\count296
+\pgfdecorationsegmentamplitude=\dimen258
+\pgfdecorationsegmentlength=\dimen259
 )
-\tikz@lib@dec@box=\box63
+\tikz@lib@dec@box=\box64
 )) (C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshadows.code.tex
 File: tikzlibraryshadows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
  (C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryfadings.code.tex
@@ -379,77 +406,82 @@ File: tikzlibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 File: pgflibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))) (C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-08-23 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count295
-\l__pdf_internal_box=\box64
+\l__color_backend_stack_int=\count297
+\l__pdf_internal_box=\box65
 ) (diary.aux)
 \openout1 = `diary.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
  (C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count296
-\scratchdimen=\dimen259
-\scratchbox=\box65
-\nofMPsegments=\count297
-\nofMParguments=\count298
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count299
-\MPscratchDim=\dimen260
-\MPnumerator=\count300
-\makeMPintoPDFobject=\count301
-\everyMPtoPDFconversion=\toks30
+\scratchcounter=\count298
+\scratchdimen=\dimen260
+\scratchbox=\box66
+\nofMPsegments=\count299
+\nofMParguments=\count300
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count301
+\MPscratchDim=\dimen261
+\MPnumerator=\count302
+\makeMPintoPDFobject=\count303
+\everyMPtoPDFconversion=\toks32
 ) (C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 16.
+Package hyperref Info: Link coloring OFF on input line 18.
  [1
 
 
 {C:/Users/Funderstand/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 91.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 91.
-
+LaTeX Font Info:    Trying to load font information for U+msa on input line 93.
+ (C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 93.
+ (C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.92 \newpage
+l.95 \newpage
               [1
 
-] (diary.aux) ) 
+]
+\enitdp@todoList=\count304
+ [2] (diary.aux) ) 
 Here is how much of TeX's memory you used:
- 20134 strings out of 477843
- 401703 string characters out of 2820767
- 706946 words of memory out of 3000000
- 38746 multiletter control sequences out of 15000+600000
- 470769 words of font info for 33 fonts, out of 8000000 for 9000
+ 21102 strings out of 477843
+ 415835 string characters out of 2820767
+ 715540 words of memory out of 3000000
+ 39670 multiletter control sequences out of 15000+600000
+ 478541 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 101i,13n,105p,434b,1621s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<C:/Users/Funderstand/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Funderstand/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on diary.pdf (2 pages, 47079 bytes).
+ 101i,13n,105p,413b,1621s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\Funderstand\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/Funderstand/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Funderstand/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Funderstand/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/Funderstand/AppData/Local/Programs/MiKTeX/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on diary.pdf (3 pages, 61279 bytes).
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
- 4 named destinations out of 1000 (max. 500000)
+ 87 PDF objects out of 1000 (max. 8388607)
+ 5 named destinations out of 1000 (max. 500000)
  151 words of extra memory for PDF output out of 10000 (max. 10000000)
 

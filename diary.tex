@@ -1,13 +1,15 @@
 \documentclass[12pt, a4paper]{book}
 
-\usepackage{tikz}
-\usepackage{incgraph}
+\usepackage{tikz, incgraph, enumitem, amssymb, pifont}
 
 \usetikzlibrary{mindmap, shadows}
 
 \newcommand{\memorizationColor}{red}
 \newcommand{\understandingColor}{green}
 \newcommand{\steadinessColor}{blue}
+
+\newcommand{\done}{\rlap{$\square$}{\raisebox{2pt}{\large\hspace{1pt}\ding{51}}}\hspace{-2.5pt}}
+\newcommand{\wontfix}{\rlap{$\square$}{\raisebox{2pt}{\large\hspace{1pt}\ding{55}}}}
 
 \title{Planner}
 \date{November 25, 2022}
@@ -89,7 +91,17 @@
     \end{tikzpicture}
 \end{inctext}
 {\let\newpage\relax\maketitle}
-\newpage
 
+\newpage
+\begin{itemize}
+    \item Todo
+          \newlist{todoList}{itemize}{2}
+          \setlist[todoList]{label=$\square$}
+          \begin{todoList}
+              \item[\done] Problem 1
+              \item Item 3
+              \item[\wontfix] Problem 2
+          \end{todoList}
+\end{itemize}
 
 \end{document}
