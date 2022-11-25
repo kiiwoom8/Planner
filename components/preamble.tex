@@ -1,0 +1,16 @@
+\documentclass[12pt, a4paper]{book}
+\usepackage{tikz, incgraph, enumitem, amssymb, pifont, xcolor}
+\usetikzlibrary{mindmap, shadows}
+\newcommand{\lastupdate}{\today}
+\newcommand{\memorizationColor}{red}
+\newcommand{\understandingColor}{green}
+\newcommand{\steadinessColor}{blue}
+\newcommand{\done}{\rlap{$\square$}{\raisebox{2pt}{\large\hspace{1pt}\ding{51}}}\hspace{-2.5pt}}
+\newcommand{\wontfix}{\rlap{$\square$}{\raisebox{2pt}{\large\hspace{1pt}\ding{55}}}}
+\newcommand{\none}{\rlap{$\square$}\hspace{9.25pt}}
+\newcommand\advancedInput[4]{
+    \def\first{#2}
+    \def\second{#3}
+    \def\day{#4}
+    \input{#1}
+}

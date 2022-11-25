@@ -2,6 +2,10 @@ PWD c:\Users\Funderstand\diary
 INPUT C:\Users\Funderstand\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
 INPUT c:\Users\Funderstand\diary\diary.tex
 OUTPUT diary.log
+INPUT .\components\preamble.tex
+INPUT components\preamble.tex
+INPUT .\components\preamble.tex
+INPUT components\preamble.tex
 INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex\latex\base\book.cls
 INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex\latex\base\book.cls
 INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex\latex\base\book.cls
@@ -686,6 +690,7 @@ INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\upsy.f
 INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\upsy.fd
 INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\upsy.fd
 INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\symbol\psyr.tfm
+INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
 INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarymindmap.code.tex
 INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarymindmap.code.tex
 INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytrees.code.tex
@@ -734,6 +739,10 @@ INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epst
 INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT .\components\mindmap.tex
+INPUT components\mindmap.tex
+INPUT .\components\mindmap.tex
+INPUT components\mindmap.tex
 INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\Funderstand\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
@@ -755,6 +764,13 @@ INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb
 INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT .\components\daily.tex
+INPUT components\daily.tex
+INPUT .\components\daily.tex
+INPUT components\daily.tex
 INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
 INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
@@ -778,6 +794,8 @@ INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cms
 INPUT diary.aux
 INPUT C:\Users\Funderstand\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
 INPUT C:\Users\Funderstand\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
+INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\Funderstand\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb

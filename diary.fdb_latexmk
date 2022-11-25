@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1669390173 "c:/Users/Funderstand/diary/diary.tex" "diary.pdf" "diary" 1669390175
-  "C:/Users/Funderstand/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1669381145 82507 a9eef8696c92627b87e9975edea03b2a ""
+["pdflatex"] 1669395129 "c:/Users/Funderstand/diary/diary.tex" "diary.pdf" "diary" 1669395131
+  "C:/Users/Funderstand/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1669390895 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Funderstand/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1669380503 14064 e9cc2b24478e122a70e2b60bee931cbb ""
   "C:/Users/Funderstand/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1663896800 10377382 9e29fedaf3e6824bc2d1d4251eaa7ca2 ""
   "C:/Users/Funderstand/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/symbol/psyr.tfm" 1136790254 1408 5937f58aa508ea2cea4901c07d10f5fe ""
@@ -12,6 +12,7 @@
   "C:/Users/Funderstand/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam7.tfm" 1233951854 928 2dc8d444221b7a635bb58038579b861a ""
   "C:/Users/Funderstand/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1233951854 908 2921f8a10601f252058503cc6570e581 ""
   "C:/Users/Funderstand/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1233951854 940 228d6584342e91276bf566bcf9716b83 ""
+  "C:/Users/Funderstand/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/Funderstand/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmex10.tfm" 1136765053 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "C:/Users/Funderstand/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
   "C:/Users/Funderstand/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -24,6 +25,7 @@
   "C:/Users/Funderstand/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/Funderstand/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/Funderstand/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
+  "C:/Users/Funderstand/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247593066 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/Funderstand/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247593067 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/Funderstand/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247593066 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
   "C:/Users/Funderstand/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb" 1247593073 31764 459c573c03a4949a528c2cc7f557e217 ""
@@ -153,9 +155,12 @@
   "C:/Users/Funderstand/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657797096 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/Funderstand/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Funderstand/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656233290 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "c:/Users/Funderstand/diary/diary.tex" 1669390172 3747 2731b5de3d69c2d7f876cae6718a998a ""
-  "diary.aux" 1669390175 585 53c44f00a398eef5ecbba3db891f8d23 "pdflatex"
-  "diary.tex" 1669390172 3747 2731b5de3d69c2d7f876cae6718a998a ""
+  "c:/Users/Funderstand/diary/diary.tex" 1669394849 391 256cb18afdbf4b1e94dc5fedb198ca87 ""
+  "components/daily.tex" 1669394885 241 a62088daab411652c1e6234e2252fd3f ""
+  "components/mindmap.tex" 1669395128 2865 44205675d268035bda660aa4c2e10792 ""
+  "components/preamble.tex" 1669394916 630 97a62d787556712ef83a956521a1fde7 ""
+  "diary.aux" 1669395131 585 53c44f00a398eef5ecbba3db891f8d23 "pdflatex"
+  "diary.tex" 1669394849 391 256cb18afdbf4b1e94dc5fedb198ca87 ""
   (generated)
   "diary.aux"
   "diary.log"
