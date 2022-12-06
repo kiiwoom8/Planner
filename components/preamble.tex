@@ -1,5 +1,5 @@
-\documentclass[12pt, a4paper]{book}
-\usepackage{tikz, incgraph, enumitem, amssymb, pifont, xcolor, listings, geometry}
+\documentclass[12pt, a4paper]{article}
+\usepackage{tikz, incgraph, enumitem, amssymb, pifont, xcolor, listings}
 \usetikzlibrary{mindmap, shadows}
 \newcommand{\lastupdate}{\today}
 \newcommand{\memorizationColor}{red}
@@ -8,10 +8,13 @@
 \newcommand{\done}{\rlap{$\square$}{\raisebox{2pt}{\large\hspace{1pt}\ding{51}}}\hspace{-2.5pt}}
 \newcommand{\wontfix}{\rlap{$\square$}{\raisebox{2pt}{\large\hspace{1pt}\ding{55}}}}
 \newcommand{\none}{\rlap{$\square$}\hspace{9.25pt}}
-\newcommand{\advancedInput}[5]{
-    \def\first{#2}
-    \def\second{#3}
-    \def\third{#4}
-    \def\forth{#5}
-    \input{#1}
+\newcommand{\inputPlan}[7]{
+    \def\first{#1}
+    \def\second{#2}
+    \def\third{#3}
+    \def\forth{#4}
+    \def\fifth{#5}
+    \def\sixth{#6}
+    \def\seventh{#7}
+    \input{components/plan.tex}
 }
